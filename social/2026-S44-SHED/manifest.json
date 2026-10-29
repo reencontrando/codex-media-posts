@@ -1,0 +1,82 @@
+[
+  {
+    "id": "SH01",
+    "profile": "institutoreencontrando",
+    "type": "carousel",
+    "title": "Ela caiu. Ele ajudou. Ela ficou furiosa.",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH01_institutoreencontrando\\slide-01.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH01_institutoreencontrando\\slide-02.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH01_institutoreencontrando\\slide-03.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH01_institutoreencontrando\\slide-04.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH01_institutoreencontrando\\slide-05.png"
+    ]
+  },
+  {
+    "id": "SH02",
+    "profile": "institutoreencontrando",
+    "type": "carousel",
+    "title": "Você está salvando ou servindo?",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-01.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-02.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-03.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-04.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-05.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-06.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH02_institutoreencontrando\\slide-07.png"
+    ]
+  },
+  {
+    "id": "SH03",
+    "profile": "flaviabrotto",
+    "type": "carousel",
+    "title": "Você diz sim. Seu corpo pede pausa.",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH03_flaviabrotto\\slide-01.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH03_flaviabrotto\\slide-02.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH03_flaviabrotto\\slide-03.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH03_flaviabrotto\\slide-04.png",
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH03_flaviabrotto\\slide-05.png"
+    ]
+  },
+  {
+    "id": "SH04",
+    "profile": "institutoreencontrando",
+    "type": "image",
+    "title": "A máscara de oxigênio",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH04_institutoreencontrando\\imagem.png"
+    ]
+  },
+  {
+    "id": "SH05",
+    "profile": "flaviabrotto",
+    "type": "reel",
+    "title": "Discurso bonito não é espiritualidade.",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH05_flaviabrotto\\SH05-reel.mp4"
+    ],
+    "duration": 91.74
+  },
+  {
+    "id": "SH06",
+    "profile": "flaviabrotto",
+    "type": "reel",
+    "title": "Ajudou uma vez. Virou obrigação para sempre?",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH06_flaviabrotto\\SH06-reel.mp4"
+    ],
+    "duration": 33.38
+  },
+  {
+    "id": "SH07",
+    "profile": "institutoreencontrando",
+    "type": "reel",
+    "title": "Ele quis ajudar. Ela se sentiu invadida.",
+    "files": [
+      "D:\\IRSIM\\OneDrive\\CODEX CHATGPT\\REDES SOCIAIS IRSIM\\Conteudos produzidos\\SHED44-pacote-v2\\SH07_institutoreencontrando\\SH07-reel.mp4"
+    ],
+    "duration": 49.42
+  }
+]
