@@ -3,5 +3,11 @@
   "start": 2706.2,
   "end": 2790.9,
   "sourceType": "aula original",
-  "ctaSeconds": 7
+  "ctaSeconds": 7,
+  "revision": "Removida a frase ofensiva completa e o aparte, conforme pedido em 29/10/2026.",
+  "removedFromRenderedVideoSeconds": [
+    40.1,
+    48.9
+  ],
+  "currentFile": "SH05-reel-v2.mp4"
 }
